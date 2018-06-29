@@ -48,9 +48,9 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  #about: /about/
   archives: /archives/
   tags: /tags/
+  # about: /about/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -243,7 +243,7 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host:
+  host: https://fonts.proxy.ustclug.org
 
   # Global font settings used on <body> element.
   global:
@@ -268,7 +268,12 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
-    family:
+    # family: Rock Salt
+    # family: Fredericka the Great
+    # family: Permanent Marker
+    #family: Great Vibes
+    family: IM Fell English SC
+    #Ceviche One, Yesteryear,Italianno, UnifrakturMaguntia, IM Fell English SC,Londrina Shadow
     size:
 
   # Font settings for <code> and code blocks.

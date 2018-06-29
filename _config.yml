@@ -3,10 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 1990s
-subtitle: Life Recording...
-description: 外地来沪务工人员，贩马为生
-author: Chen Qiushi
+title: Qiushi's Blog
+subtitle: Since 1990
+description: 荊楚人也，甲午年夏，東赴申城，販馬為生。
+# description: 外地来沪务工人员，贩马为生
+author: 秋實
 language: zh-Hans
 timezone:
 
