@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-since: 2017
+since: 2013
 
 # icon between year and author @Footer
 authoricon: heart
@@ -295,7 +295,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 9b873b43dc359285ef49abc83c2a1920
 
 # Duoshuo ShortName
 #duoshuo_shortname:
