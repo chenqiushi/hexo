@@ -268,11 +268,11 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
+    family: IM Fell English SC
     # family: Rock Salt
     # family: Fredericka the Great
     # family: Permanent Marker
     #family: Great Vibes
-    family: IM Fell English SC
     #Ceviche One, Yesteryear,Italianno, UnifrakturMaguntia, IM Fell English SC,Londrina Shadow
     size:
 
